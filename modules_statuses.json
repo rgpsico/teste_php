@@ -1,0 +1,6 @@
+{
+    "Products": true,
+    "Cliente": true,
+    "Pedido": true,
+    "Pastel": true
+}

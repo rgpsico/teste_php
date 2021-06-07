@@ -1,0 +1,13 @@
+{
+    "name": "Pastel",
+    "alias": "pastel",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Pastel\\Providers\\PastelServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
